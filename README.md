@@ -18,5 +18,5 @@ It applies random **scratch-like distortions** to the image for encryption and r
 ## ⚙️ How to Run  
 
 1. Clone or download this repository.  
-  >>> https://github.com/93rushikesh/ImageEncryptionTool/tree/main
+  >>> [https://github.com/93rushikesh/ImageEncryptionTool/tree/main](https://github.com/93rushikesh/ImageEncryptionTool/commit/6192bdce670cccf31419c130ff48c6129506c82c)
 2. Run
